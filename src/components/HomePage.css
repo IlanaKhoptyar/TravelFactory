@@ -1,0 +1,57 @@
+.homePage_title {
+    padding-top: 50px;
+    font-size: 30px;
+    position: relative;
+}
+
+.apps_card_wrapper{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 330px;
+}
+
+.appsMenu{
+    width: 100px;
+}
+
+.apps_menu_title{
+    position: absolute;
+    border: 1px solid;
+    top: 150px;
+    left: 120px;
+    padding: 10px 16px;
+    font-size: 23px;
+}
+
+.app_arr {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: flex-start;
+    top: 150px;
+    left: 155px;
+    width: 100px;
+}
+
+.appBtn{
+    margin-top: 40px;
+}
+
+.addAppBtn {
+    height: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 80px;
+    margin: 50px;
+    border: 1px solid;
+    border-radius: 14px;
+    background-color: #2ec1f1;
+   
+    left: 50% ;
+}

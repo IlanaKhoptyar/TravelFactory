@@ -1,0 +1,25 @@
+.appPage{
+    position: relative;
+}
+
+.backLink {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.translationForm {
+    position: absolute;
+    width: 50%;
+    top:50px;
+    left: 10px;
+}
+
+.appPage .form-label, .appPage .form-control {
+    margin-bottom: 50px;
+    
+}
+
+.appPage .form-label{
+    font-size: 30px;
+}

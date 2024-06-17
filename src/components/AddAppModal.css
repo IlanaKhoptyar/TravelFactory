@@ -1,0 +1,12 @@
+.addAppBtn {
+    height: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 80px;
+    margin: 50px;
+    border: 1px solid;
+    border-radius: 14px;
+    background-color: #2ec1f1 !important;
+   
+    left: 50% ;
+}

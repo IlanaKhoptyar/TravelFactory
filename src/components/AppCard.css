@@ -1,0 +1,43 @@
+.appCard {
+    width: 350px;
+    height: 155px;
+    margin: 0 35px;
+    border: 1px solid;
+    border-radius: 14px;
+}
+
+.appCard_inner {
+    position: relative;
+}
+
+.app_card_title {
+    left: 15px;
+    position: absolute;
+    top: -10px;
+    border: 1px solid;
+    padding: 5px;
+    background-color: #2ec1f1;
+}
+
+.appUpdateDate {
+    position: absolute;
+    top: 35px;
+    text-align: center;
+    width: 100%;
+    padding: 0px 5px;
+}
+
+.app_card_btns {
+    position: absolute;
+    width: 100%;
+    align-content: center; 
+    top:80px;
+}
+
+.app_card_btns button {
+    border-radius: 5px;
+    margin:0px 10px;
+    background-color: #2ec1f1;
+    width: 100px;
+    height: 60px;
+}
